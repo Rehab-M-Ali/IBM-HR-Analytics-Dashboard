@@ -21,7 +21,7 @@ An executive-grade, interactive Excel dashboard built to analyze workforce reten
 
 ## 📸 Dashboard Preview
 
-![Executive Dashboard Overview](assets/image1.png)
+![Executive Dashboard Overview](assets/image1.png.png)
 
 ---
 
